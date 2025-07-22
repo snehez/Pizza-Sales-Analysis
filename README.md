@@ -51,7 +51,7 @@ To analyze pizza sales data and uncover meaningful business insights such as:
 - Intermediate joins and aggregations
 - Advanced analytics (cumulative revenue, top 3 per category)
 
-Full list is available in (PizzaSalesQuestions.txt)
+Full list is available in ([PizzaSalesQuestions.txt](https://github.com/snehez/Pizza-Sales-Analysis/blob/main/Pizza_Sales_Analysis_Questions.txt))
 
 
 ## 📬 Connect with Me
